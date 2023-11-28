@@ -33,3 +33,8 @@
 .material-icons {
   cursor: pointer;
 }
+
+#wolf {
+  width: 20vw;
+  margin: 20px;
+}
